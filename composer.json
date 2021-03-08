@@ -1,0 +1,9 @@
+{
+    "name": "MVC",
+    "description": "MVC",
+    "autoload": {
+        "psr-4": {
+            "MVC\\": ""
+        }
+    }
+}
